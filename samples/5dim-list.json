@@ -1,0 +1,16 @@
+[
+    "1st dimension",
+    "dog",
+    "cat",
+    [
+        "2nd dimension",
+        [
+            "3rd dimension",
+            1234,
+            [
+                "4th dimension",
+                ["Hello", "5th", "dimensional", "world"]
+            ]
+        ]
+    ]
+]

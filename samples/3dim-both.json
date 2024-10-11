@@ -1,0 +1,30 @@
+[
+  {
+    "brand": "Jeep",
+    "model": "Gladiator",
+    "year": "2022",
+    "owner": {
+      "name": "John Smith",
+      "xp": 5915
+    }
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Impala",
+    "year": "1962",
+    "owner": {
+      "name": "Jane Doe",
+      "xp": 64985
+    }
+  },
+  {
+    "brand": "Holden",
+    "model": "Astra",
+    "year": "2017",
+    "owner": {
+      "name": "Name Less",
+      "xp": 0
+    }
+  }
+]
+
